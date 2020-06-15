@@ -31,7 +31,7 @@
                             value="Điều hòa">Điều hòa
                     </option>
                     <option
-                        <?php if ($product[0]['Tủ lạnh'] == 'Tủ lạnh'): ?>
+                        <?php if ($product['type'] == 'Tủ lạnh'): ?>
                             selected
                         <?php endif; ?>
                             value="Tủ lạnh">Tủ lạnh

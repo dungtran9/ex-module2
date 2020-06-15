@@ -21,9 +21,9 @@
                     <option
                         value="Điện thoại">Điện thoại</option>
                     <option
-                        value="Điều hòa">Tủ lạnh</option>
+                        value="Điều hòa">Điều hòa</option>
                     <option
-                        value="Tủ lạnh">Điều hòa</option>
+                        value="Tủ lạnh">Tủ lạnh</option>
                 </select></td>
         </tr>
         <tr>
